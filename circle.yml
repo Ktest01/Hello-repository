@@ -1,0 +1,6 @@
+
+
+notify:
+  webhooks:
+    # A list of hashes representing hooks. Only the url field is supported.
+    - url: https://Yourcompany.kore.com/hooks/c6089802f36250c179dcb1aa29afd24c
